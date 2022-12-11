@@ -1,3 +1,4 @@
+<div align="center">
 
 ![badge: html](https://img.shields.io/badge/HTML-technology-red)
 ![badge: css](https://img.shields.io/badge/CSS-technology-lightblue)
@@ -9,6 +10,9 @@
 ![badge: Author](https://img.shields.io/badge/Author-Kai-purple)
 ![badge: school](https://img.shields.io/badge/school-ALURA-blue)
 ![badge: Version](https://img.shields.io/badge/version-v.0.1-gray)
+
+</div>
+<hr>
 
 ## ALURONI :stew:
 
