@@ -1,46 +1,49 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![badge: html](https://img.shields.io/badge/HTML-technology-red)
+![badge: css](https://img.shields.io/badge/CSS-technology-lightblue)
+![badge: Javascript](https://img.shields.io/badge/Javascript-technology-yellow)
+![badge: TypeScript](https://img.shields.io/badge/TypeScript-Framework-blue)
+![badge: Sass](https://img.shields.io/badge/Sass-Framework-pink)
+![badge: React](https://img.shields.io/badge/React-Framework-darkblue)
 
-## Available Scripts
+![badge: Author](https://img.shields.io/badge/Author-Kai-purple)
+![badge: school](https://img.shields.io/badge/school-ALURA-blue)
+![badge: Version](https://img.shields.io/badge/version-v.0.1-gray)
 
-In the project directory, you can run:
+## ALURONI :stew:
 
-### `npm start`
+:construction::construction::construction::construction::construction::construction:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### SOBRE
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Este trata-se de uma página para o restaurante ALURONI, proposta da aula prática do curso <strong><i>"REACT: lidando com arquivos estáticos"</i></strong> que faz parte do projeto da Formação técnica <strong><i>"REACT com TypeScript"</i></strong>.
 
-### `npm test`
+Neste projeto apresentamos uma SPA (single page aplication), está página é capaz de renderizar conteúdos de pesquisas usando REACT para retornar ao usuário informações em uma única página sem a necessidade de redirecionamento.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+No projeto temos o webSite para casa de massas ALURONI, onde o usuário poderá intergir com as páginas e filtras o tipo de produto que desenha, seja ele por tags já definidas, por técnicas de ordenação ou pesquisando no grupo de busca.
 
-### `npm run build`
+Conforme a váriavel usada pelo usuário o sistema fará filtros e retornará conforme os critérios solicitados somente as lista de interesse ao usuário.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### TECNOLOGIAS
+Projeto usando Framework REACT js para otimização e criação de SPA.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Neste projeto também foram aplicados técnicas modernas de programação com o auxilio do TypeScript como framework auxliar para linguagem de programação Javascript, framework este que torna a linguagem mais poderosa podendo identificar erros antes mesmo do processamento do projeto.
 
-### `npm run eject`
+Para o auxiliar neste projeto com a estilização dos componentes foi trabalhado com o framework Sass para o CSS usando técnica modernas para estilização com sass o que compensa utilização de código e auxilia na manutenção do mesmo.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### CRIADOR
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Meu nome é <strong> Kai Wang </strong> , este é meu nome Chinês ( sim eu tenho um nome em mandarim ^^), sou apaixonado por cultura oriental e códigos, sempre amei códigos desde os meus 14 anos de idade, e sempre tentava desifrar a lógica e encontrar os melhores caminhos para soluções de problemas. A Matemática sempre foi incrivel para mim e sempre uma paixão sendo muito simple entender a lógica por traz das formulas e como tudo se encaixa.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Caso tenha interesse de conhecer mais projeto siga minha página Pessoal.
 
-## Learn More
+Obrigado por acessar.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<hr>
+<div align="Center">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feito com :heart: por Kai Wang..
+
+</div>
