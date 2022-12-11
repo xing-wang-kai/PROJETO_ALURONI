@@ -7,6 +7,7 @@
 ![badge: Sass](https://img.shields.io/badge/Sass-Framework-pink)
 ![badge: React](https://img.shields.io/badge/React-Framework-darkblue)
 ![badge: React](https://img.shields.io/badge/React_Router-lib-lightgreen)
+![badge: React](https://img.shields.io/badge/EsLint-lib-orange)
 
 ![badge: Author](https://img.shields.io/badge/Author-Kai-purple)
 ![badge: school](https://img.shields.io/badge/school-ALURA-blue)
