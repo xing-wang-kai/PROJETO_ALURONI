@@ -32,6 +32,12 @@ Neste projeto também foram aplicados técnicas modernas de programação com o 
 
 Para o auxiliar neste projeto com a estilização dos componentes foi trabalhado com o framework Sass para o CSS usando técnica modernas para estilização com sass o que compensa utilização de código e auxilia na manutenção do mesmo.
 
+### GIF DO PROJETO: 
+
+<p align="center">Bem vindo ao cardápio do <strong>Aluroni</strong> escolha seu prato favorito e filtre pelas categorias ou ordene conforme sua preferencia</p>
+
+![gif do projeto](./public/assets/GIF/projeto.gif)
+
 #### CRIADOR
 
 
