@@ -1,7 +1,6 @@
 import styles from './item.module.scss';
-import logo from '../../../../assets/logo.svg';
 import classNames from 'classnames';
-
+import { useNavigate } from 'react-router-dom';
 
 interface Iitem{
     title: string;
@@ -17,11 +16,15 @@ interface Iitem{
     };
 }
 
-export default function Item({title, description, photo, size, serving, price,  category}: Iitem) {
+
+export default function Item({title, description, photo, size, serving, price, id,  category}: Iitem) {
+
+  const navigate = useNavigate();
+
   return(
-    <div className={styles.item}>
+    <div className={styles.item} onClick={()=> navigate(`/prato/${id}`)}>
       <figure className={styles.item__imagem}>
-        <img src={photo} alt="Figura do item" />
+        <img src={photo} alt={title} />
       </figure>
 
       <div className={styles.item__descricao}>

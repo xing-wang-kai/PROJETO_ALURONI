@@ -3,7 +3,7 @@ import Menu from './menu';
 import { Outlet } from 'react-router-dom';
 import styleThema from '../../styles/tema.module.scss';
 
-export default function Header() {
+export default function Header( { children } : { children? : React.ReactNode}) {
   return (
     <main className='container'>
       <header>
@@ -12,6 +12,7 @@ export default function Header() {
       </header>
       <div className={styleThema.container}>
         <Outlet />
+        { children}
       </div>
     </main>
   );

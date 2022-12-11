@@ -12,6 +12,7 @@ import Sobre from './pages/sobre';
 import Footer from './components/footer/index';
 import Header from './components/header/index';
 import NotFound from './pages/NotFound';
+import Pratos from './pages/pratos';
 
 
 export default function AppRouter() {
@@ -19,15 +20,17 @@ export default function AppRouter() {
     <Router>
       <Routes>
 
-        <Route exact path='/'         element={<Header/>  }    >
-          <Route index element={<Inicio/>} />
-          <Route exact path='cardapio' element={<Cardapio/>}  />
-          <Route exact path='sobre'    element={<Sobre/>}     />
+        <Route    path='/'         element={<Header/>  }    >
+          <Route  index            element={<Inicio/>}     />
+          <Route  path='cardapio'  element={<Cardapio/>}   />
+          <Route  path='sobre'     element={<Sobre/>}      />
+          
+          
         </Route>
-
-        <Route       path='*'         element={ <NotFound/> } />
+        <Route  path='/prato/:id'element={<Pratos/>}     />
+        <Route    path='*'        element={ <NotFound/> } />
       </Routes>
       <Footer/>
-    </Router>
+    </Router >
   );
 }
