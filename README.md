@@ -6,6 +6,7 @@
 ![badge: TypeScript](https://img.shields.io/badge/TypeScript-Framework-blue)
 ![badge: Sass](https://img.shields.io/badge/Sass-Framework-pink)
 ![badge: React](https://img.shields.io/badge/React-Framework-darkblue)
+![badge: React](https://img.shields.io/badge/React_Router-lib-lightgreen)
 
 ![badge: Author](https://img.shields.io/badge/Author-Kai-purple)
 ![badge: school](https://img.shields.io/badge/school-ALURA-blue)
@@ -21,6 +22,10 @@
 ### SOBRE
 
 Este trata-se de uma página para o restaurante ALURONI, proposta da aula prática do curso <strong><i>"REACT: lidando com arquivos estáticos"</i></strong> que faz parte do projeto da Formação técnica <strong><i>"REACT com TypeScript"</i></strong>.
+
+Na primeira estapa do curso foram realizados a verificação dos caminhos estáticos para importar arquivos e imagens e definido as os filtros para pesquisa e ordenação da página.
+
+Na segunda parte do projeto segue com o terceiro curso da Formação técnica <strong><i>"REACT com TypeScript"</i></strong> chamado <strong><i>"REACT: Conhecendo a biblioteca React Router"</i></strong> nessa etapa do projeto foi adotado o uso de Eslint para facilitar a sintaxe do TypeScript e definir diversas regras para o código, como o tipo padrão de aspas usado para strings e imports, os códigos deverão ou não terminar com ponto e virgula, e a quantidade de espaçamento necessaria na identação do código.
 
 Neste projeto apresentamos uma SPA (single page aplication), está página é capaz de renderizar conteúdos de pesquisas usando REACT para retornar ao usuário informações em uma única página sem a necessidade de redirecionamento.
 
